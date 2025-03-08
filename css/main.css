@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main-frame {
+    position: relative;
+    width: 300px;
+    margin-bottom: 20px;
+}
+#browser {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 10px;
+    width: 20px;
+    height: 20px;
+}
+#donation {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: -5px;
+    margin-right: 8px;
+    width: 30px;
+    height: 30px;
+}
+.main-heading {
+    margin-top: 10px;
+    font-size: 15px;
+}
+.btn-radio {
+    font-size: 12px !important;
+    margin-top: 10px !important;
+    margin: 2px;
+}
+.radio {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.icon {
+    width: 30px;
+    height: 30px;
+}

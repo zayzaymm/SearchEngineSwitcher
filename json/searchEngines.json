@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Default",
+        "url": "disable"
+    },
+    {
+        "name": "Google",
+        "url": "https://www.google.com"
+    },
+    {
+        "name": "DuckDuckGo",
+        "url": "https://duckduckgo.com"
+    },
+    {
+        "name": "Qwant",
+        "url": "https://www.qwant.com"
+    },
+    {
+        "name": "Bing",
+        "url": "https://www.bing.com"
+    },
+    {
+        "name": "Yahoo",
+        "url": "https://search.yahoo.com"
+    },
+    {
+        "name": "Yandex",
+        "url": "https://yandex.com"
+    },
+    {
+        "name": "Ecosia",
+        "url": "https://www.ecosia.org"
+    },
+    {
+        "name": "Brave",
+        "url": "https://search.brave.com"
+    },
+    {
+        "name": "StartPage",
+        "url": "https://www.startpage.com"
+    },
+    {
+        "name": "Aol",
+        "url": "https://search.aol.com/"
+    }
+]
